@@ -1,0 +1,6 @@
+C:/Users/konda/source/repos/Knut_Moris_Prat/Knut_Moris_Prat/obj/Debug/Knut_Moris_Prat.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Knut_Moris_Prat/Knut_Moris_Prat/obj/Debug/Knut_Moris_Prat.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Knut_Moris_Prat/Knut_Moris_Prat/bin/Debug/Knut_Moris_Prat.exe
+C:/Users/konda/source/repos/Knut_Moris_Prat/Knut_Moris_Prat/bin/Debug/Knut_Moris_Prat.pdb
+C:/Users/konda/source/repos/Knut_Moris_Prat/Knut_Moris_Prat/obj/Debug/Knut_Moris_Prat.exe
+C:/Users/konda/source/repos/Knut_Moris_Prat/Knut_Moris_Prat/obj/Debug/Knut_Moris_Prat.pdb

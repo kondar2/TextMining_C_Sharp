@@ -1,0 +1,6 @@
+C:\Users\konda\source\repos\Const_zipf\Const_zipf\bin\Debug\Const_zipf.exe
+C:\Users\konda\source\repos\Const_zipf\Const_zipf\bin\Debug\Const_zipf.pdb
+C:\Users\konda\source\repos\Const_zipf\Const_zipf\obj\Debug\Const_zipf.csprojAssemblyReference.cache
+C:\Users\konda\source\repos\Const_zipf\Const_zipf\obj\Debug\Const_zipf.csproj.CoreCompileInputs.cache
+C:\Users\konda\source\repos\Const_zipf\Const_zipf\obj\Debug\Const_zipf.exe
+C:\Users\konda\source\repos\Const_zipf\Const_zipf\obj\Debug\Const_zipf.pdb

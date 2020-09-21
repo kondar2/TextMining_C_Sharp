@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E076FFF8-E91C-4B2F-ABC6-35E819E93715}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mass_gran/Program.cs">
+    <Files>
+      <File FileName="Mass_gran/Program.cs" Line="21" Column="128" />
+      <File FileName="Mass_gran/PreficsFun.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mass_gran" expanded="True">
+            <Node name="Mass_gran" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mass__gran PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

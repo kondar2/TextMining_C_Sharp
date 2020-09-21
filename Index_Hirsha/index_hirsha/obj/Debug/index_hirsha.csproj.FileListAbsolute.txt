@@ -1,0 +1,6 @@
+C:\Users\konda\source\repos\index_hirsha\index_hirsha\bin\Debug\index_hirsha.exe
+C:\Users\konda\source\repos\index_hirsha\index_hirsha\bin\Debug\index_hirsha.pdb
+C:\Users\konda\source\repos\index_hirsha\index_hirsha\obj\Debug\index_hirsha.csprojAssemblyReference.cache
+C:\Users\konda\source\repos\index_hirsha\index_hirsha\obj\Debug\index_hirsha.csproj.CoreCompileInputs.cache
+C:\Users\konda\source\repos\index_hirsha\index_hirsha\obj\Debug\index_hirsha.exe
+C:\Users\konda\source\repos\index_hirsha\index_hirsha\obj\Debug\index_hirsha.pdb

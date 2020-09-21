@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/Horspol_alg/Horspol_alg/bin/Debug/Horspol_alg.exe
+C:/Users/konda/source/repos/Horspol_alg/Horspol_alg/bin/Debug/Horspol_alg.pdb
+C:/Users/konda/source/repos/Horspol_alg/Horspol_alg/obj/Debug/Horspol_alg.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Horspol_alg/Horspol_alg/obj/Debug/Horspol_alg.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Horspol_alg/Horspol_alg/obj/Debug/Horspol_alg.exe
+C:/Users/konda/source/repos/Horspol_alg/Horspol_alg/obj/Debug/Horspol_alg.pdb
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Horspol_alg/Horspol_alg/bin/Debug/Horspol_alg.exe
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Horspol_alg/Horspol_alg/bin/Debug/Horspol_alg.pdb
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Horspol_alg/Horspol_alg/obj/Debug/Horspol_alg.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Horspol_alg/Horspol_alg/obj/Debug/Horspol_alg.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Horspol_alg/Horspol_alg/obj/Debug/Horspol_alg.exe
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Horspol_alg/Horspol_alg/obj/Debug/Horspol_alg.pdb

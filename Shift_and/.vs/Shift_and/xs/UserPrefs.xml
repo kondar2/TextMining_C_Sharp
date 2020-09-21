@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B3F887CA-83C5-4782-805C-A7430F620ECB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shift_and/Program.cs">
+    <Files>
+      <File FileName="Shift_and/Program.cs" Line="14" Column="13" />
+      <File FileName="Shift_and/All_fun.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shift_and" expanded="True">
+            <Node name="Shift_and" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Shift__and PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

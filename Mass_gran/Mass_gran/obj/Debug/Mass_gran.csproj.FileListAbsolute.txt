@@ -1,0 +1,18 @@
+C:/Users/konda/source/repos/Mass_gran/Mass_gran/bin/Debug/Mass_gran.exe
+C:/Users/konda/source/repos/Mass_gran/Mass_gran/bin/Debug/Mass_gran.pdb
+C:/Users/konda/source/repos/Mass_gran/Mass_gran/obj/Debug/Mass_gran.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Mass_gran/Mass_gran/obj/Debug/Mass_gran.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Mass_gran/Mass_gran/obj/Debug/Mass_gran.exe
+C:/Users/konda/source/repos/Mass_gran/Mass_gran/obj/Debug/Mass_gran.pdb
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/bin/Debug/Mass_gran.exe
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/bin/Debug/Mass_gran.pdb
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/obj/Debug/Mass_gran.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/obj/Debug/Mass_gran.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/obj/Debug/Mass_gran.exe
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/obj/Debug/Mass_gran.pdb
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/bin/Debug/Mass_gran.exe
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/bin/Debug/Mass_gran.pdb
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/obj/Debug/Mass_gran.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/obj/Debug/Mass_gran.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/obj/Debug/Mass_gran.exe
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/сделанное_с_тестами/Mass_gran/Mass_gran/obj/Debug/Mass_gran.pdb

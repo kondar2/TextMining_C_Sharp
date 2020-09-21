@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{300E557C-3F7F-4FD3-86EE-62E0E2975D03}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Boyer_Moore_code/Contains.cs">
+    <Files>
+      <File FileName="Boyer_Moore_code/Program.cs" Line="62" Column="43" />
+      <File FileName="Boyer_Moore_code/Contains.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Boyer_Moore_code" expanded="True">
+            <Node name="Boyer_Moore_code" expanded="True">
+              <Node name="Contains.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Boyer__Moore__code PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

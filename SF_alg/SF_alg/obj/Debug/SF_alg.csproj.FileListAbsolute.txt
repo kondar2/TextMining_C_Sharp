@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/SF_alg/SF_alg/bin/Debug/SF_alg.exe
+C:/Users/konda/source/repos/SF_alg/SF_alg/bin/Debug/SF_alg.pdb
+C:/Users/konda/source/repos/SF_alg/SF_alg/obj/Debug/SF_alg.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/SF_alg/SF_alg/obj/Debug/SF_alg.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/SF_alg/SF_alg/obj/Debug/SF_alg.exe
+C:/Users/konda/source/repos/SF_alg/SF_alg/obj/Debug/SF_alg.pdb
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/SF_alg/SF_alg/bin/Debug/SF_alg.exe
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/SF_alg/SF_alg/bin/Debug/SF_alg.pdb
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/SF_alg/SF_alg/obj/Debug/SF_alg.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/SF_alg/SF_alg/obj/Debug/SF_alg.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/SF_alg/SF_alg/obj/Debug/SF_alg.exe
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/SF_alg/SF_alg/obj/Debug/SF_alg.pdb

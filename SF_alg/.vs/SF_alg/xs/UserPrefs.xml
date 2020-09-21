@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C2F93C2C-8C80-4B98-A48B-B7760734274C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SF_alg/Program.cs">
+    <Files>
+      <File FileName="SF_alg/SF.cs" Line="1" Column="1" />
+      <File FileName="SF_alg/Program.cs" Line="37" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SF_alg" expanded="True">
+            <Node name="SF_alg" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SF__alg PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

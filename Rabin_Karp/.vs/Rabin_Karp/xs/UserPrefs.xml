@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1586F8AC-48AD-4BA7-9DF0-DA462A1C4297}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rabin_Karp/Program.cs">
+    <Files>
+      <File FileName="Rabin_Karp/Rab_Kar.cs" Line="1" Column="1" />
+      <File FileName="Rabin_Karp/Program.cs" Line="20" Column="126" />
+      <File FileName="Rabin_Karp/Hash_vstroen.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rabin_Karp" expanded="True">
+            <Node name="Rabin_Karp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Rabin__Karp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

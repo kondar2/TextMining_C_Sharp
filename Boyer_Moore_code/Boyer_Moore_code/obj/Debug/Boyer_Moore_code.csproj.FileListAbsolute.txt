@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/Boyer_Moore_code/Boyer_Moore_code/bin/Debug/Boyer_Moore_code.exe
+C:/Users/konda/source/repos/Boyer_Moore_code/Boyer_Moore_code/bin/Debug/Boyer_Moore_code.pdb
+C:/Users/konda/source/repos/Boyer_Moore_code/Boyer_Moore_code/obj/Debug/Boyer_Moore_code.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Boyer_Moore_code/Boyer_Moore_code/obj/Debug/Boyer_Moore_code.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Boyer_Moore_code/Boyer_Moore_code/obj/Debug/Boyer_Moore_code.exe
+C:/Users/konda/source/repos/Boyer_Moore_code/Boyer_Moore_code/obj/Debug/Boyer_Moore_code.pdb
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/Boyer_Moore_code/Boyer_Moore_code/bin/Debug/Boyer_Moore_code.exe
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/Boyer_Moore_code/Boyer_Moore_code/bin/Debug/Boyer_Moore_code.pdb
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/Boyer_Moore_code/Boyer_Moore_code/obj/Debug/Boyer_Moore_code.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/Boyer_Moore_code/Boyer_Moore_code/obj/Debug/Boyer_Moore_code.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/Boyer_Moore_code/Boyer_Moore_code/obj/Debug/Boyer_Moore_code.exe
+/Users/roman/Desktop/4 курс С#/DATA_MIN/все_сделанное/Boyer_Moore_code/Boyer_Moore_code/obj/Debug/Boyer_Moore_code.pdb

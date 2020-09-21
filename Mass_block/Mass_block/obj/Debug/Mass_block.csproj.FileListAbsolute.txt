@@ -1,0 +1,12 @@
+C:/Users/konda/source/repos/Mass_block/Mass_block/obj/Debug/Mass_block.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Mass_block/Mass_block/obj/Debug/Mass_block.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Mass_block/Mass_block/bin/Debug/Mass_block.exe
+C:/Users/konda/source/repos/Mass_block/Mass_block/bin/Debug/Mass_block.pdb
+C:/Users/konda/source/repos/Mass_block/Mass_block/obj/Debug/Mass_block.exe
+C:/Users/konda/source/repos/Mass_block/Mass_block/obj/Debug/Mass_block.pdb
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_block/Mass_block/bin/Debug/Mass_block.exe
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_block/Mass_block/bin/Debug/Mass_block.pdb
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_block/Mass_block/obj/Debug/Mass_block.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_block/Mass_block/obj/Debug/Mass_block.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_block/Mass_block/obj/Debug/Mass_block.exe
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Mass_block/Mass_block/obj/Debug/Mass_block.pdb

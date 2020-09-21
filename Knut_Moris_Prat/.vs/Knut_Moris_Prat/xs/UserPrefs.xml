@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0064460D-111D-4E8E-8E15-F9190F1395B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Knut_Moris_Prat/Kn_Mor_Pra.cs">
+    <Files>
+      <File FileName="Knut_Moris_Prat/Program.cs" Line="37" Column="1" />
+      <File FileName="Knut_Moris_Prat/Kn_Mor_Pra.cs" Line="34" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Knut_Moris_Prat" expanded="True">
+            <Node name="Knut_Moris_Prat" expanded="True">
+              <Node name="Kn_Mor_Pra.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Knut__Moris__Prat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

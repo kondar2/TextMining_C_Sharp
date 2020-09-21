@@ -1,0 +1,6 @@
+C:\Users\konda\source\repos\Centr_1\Centr_1\bin\Debug\Centr_1.exe
+C:\Users\konda\source\repos\Centr_1\Centr_1\bin\Debug\Centr_1.pdb
+C:\Users\konda\source\repos\Centr_1\Centr_1\obj\Debug\Centr_1.csprojAssemblyReference.cache
+C:\Users\konda\source\repos\Centr_1\Centr_1\obj\Debug\Centr_1.csproj.CoreCompileInputs.cache
+C:\Users\konda\source\repos\Centr_1\Centr_1\obj\Debug\Centr_1.exe
+C:\Users\konda\source\repos\Centr_1\Centr_1\obj\Debug\Centr_1.pdb

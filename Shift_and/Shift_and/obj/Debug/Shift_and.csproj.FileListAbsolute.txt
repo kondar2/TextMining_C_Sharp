@@ -1,0 +1,18 @@
+C:/Users/konda/source/repos/Shift_and/Shift_and/bin/Debug/Shift_and.exe
+C:/Users/konda/source/repos/Shift_and/Shift_and/bin/Debug/Shift_and.pdb
+C:/Users/konda/source/repos/Shift_and/Shift_and/obj/Debug/Shift_and.csprojAssemblyReference.cache
+C:/Users/konda/source/repos/Shift_and/Shift_and/obj/Debug/Shift_and.csproj.CoreCompileInputs.cache
+C:/Users/konda/source/repos/Shift_and/Shift_and/obj/Debug/Shift_and.exe
+C:/Users/konda/source/repos/Shift_and/Shift_and/obj/Debug/Shift_and.pdb
+E:/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/bin/Debug/Shift_and.exe
+E:/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/bin/Debug/Shift_and.pdb
+E:/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/obj/Debug/Shift_and.csprojAssemblyReference.cache
+E:/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/obj/Debug/Shift_and.csproj.CoreCompileInputs.cache
+E:/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/obj/Debug/Shift_and.exe
+E:/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/obj/Debug/Shift_and.pdb
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/bin/Debug/Shift_and.exe
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/bin/Debug/Shift_and.pdb
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/obj/Debug/Shift_and.csprojAssemblyReference.cache
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/obj/Debug/Shift_and.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/obj/Debug/Shift_and.exe
+/Users/roman/Desktop/4 курс С#/все_сделанное/сделанное_с_тестами/Shift_and/Shift_and/obj/Debug/Shift_and.pdb
